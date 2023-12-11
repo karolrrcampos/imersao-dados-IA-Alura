@@ -1,10 +1,10 @@
 # Imersão Dados: Análises com Inteligência Artificial
 
-## Descrição
+## :memo: Descrição
 
 Este repositório contém os resultados e aprendizados obtidos durante a Imersão Dados Alura (2023), explorando a interseção entre o uso eficiente do Google Sheets, Python/Pandas e a integração da inteligência artificial por meio do ChatGPT. As principais habilidades adquiridas incluem a manipulação avançada de planilhas, análise de sentimentos em Python, e a criação de gráficos aprimorados com a assistência da IA.
 
-## Ferramentas Utilizadas
+## :hammer_and_wrench: Ferramentas Utilizadas
 
 * **Google Sheets:** Dominamos a manipulação de planilhas, explorando recursos avançados e conectando conceitos-chave da Engenharia de Prompt.
 
@@ -12,12 +12,14 @@ Este repositório contém os resultados e aprendizados obtidos durante a Imersã
 
 * **ChatGPT:** Integramos o ChatGPT para aprimorar nossas análises, explorando análise de sentimentos e aprimorando a criação de gráficos.
 
-## Habilidades Adquiridas
+## :brain: Habilidades Adquiridas
 
 Durante a imersão, desenvolvemos as seguintes habilidades:
 
 1. **Manipulação de Planilhas:**
    
+* Análise exploratória da base de dados e ChatGPT
+
 * Exploração de recursos avançados no Google Sheets.
   
 * Conexão entre diferentes planilhas para uma visão integrada dos dados.
@@ -38,7 +40,7 @@ Durante a imersão, desenvolvemos as seguintes habilidades:
 
 * Exploração da inteligência artificial para aprimoramento da visualização de dados.
 
-## Conteúdo do Repositório
+## :card_index_dividers: Conteúdo do Repositório
 
 O repositório está organizado em torno dos seguintes temas:
 
@@ -47,6 +49,16 @@ O repositório está organizado em torno dos seguintes temas:
 * Manipulação de Planilhas
 
 * Pré-processamento e Criação de Gráficos com Ajuda de IA
+
+### :bar_chart: Conteúdo Pasta planilhas_google_sheets
+
+*  **Amazon Spreadsheet - Manipulação de Planilhas.xlsx:** Divisão de texto em colunas, cálculo de percentual de desconto, emprego da função GoogleFinance para conversão de moeda, conexão entre planilhas e emprego da função GoogleTranslate para tradução do conteúdo.
+
+*  **Hotels in Munnar, Kerala (MakeMyTrip) - Manipulação de Planilha e Criação de Gráfico Com Ajuda da IA.xlsx:** Pré-processamento de dados, filtragem por cor, conexão entre planilhas e criação de gráficos.
+
+*  **Threads Reviews - Manipulação de Planilha e Criação de Gráfico Com Ajuda da IA.xlsx:** Pré-processamento de dados, uso de condições aninhadas, emprego da função GoogleTranslate para tradução do conteúdo, limpeza do conteúdo e remoção de caracteres que não são letras ou espaços simples, análise exploratória, criação de gráficos e emprego das funções LOCALIZAR, ESQUERDA e DIREITA para divisão de texto em colunas.
+
+*  **Top 1000 IMDb Movies - Manipulação de Planilha e Criação de Gráfico Com Ajuda da IA.xlsx:** Pré-processamento de dados, filtragem por cor e criação de gráficos.
 
 ## Como Usar
 
