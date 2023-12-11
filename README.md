@@ -1,3 +1,9 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/9yRMxLuRqyQ0x3jJXD/giphy.gif" width="150"/>
+ </div>
+
+---
+
 # Imersão Dados: Análises com Inteligência Artificial
 
 ## :memo: Descrição
